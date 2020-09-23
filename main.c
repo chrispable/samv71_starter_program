@@ -24,6 +24,9 @@
  * CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
+ 
+ ** This file forked and edited to use standard atmel packs and configuration 
+ ** and macros and defines as well as a stock linker. Core logic remains same
  */
 
 //-----------------------------------------------------------------------------
